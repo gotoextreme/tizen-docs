@@ -105,7 +105,7 @@ The following are event types:
 |-------------|-------------|
 | `WATCHFACE_COMPLICATION_EVENT_NONE` | The complication is not tapped. |
 | `WATCHFACE_COMPLICATION_EVENT_TAP` | The complication is tapped. |
-| `WATCHFACE_COMPLICATION_EVENT_DOUBLE_TAP` | The compliation is double tapped. |
+| `WATCHFACE_COMPLICATION_EVENT_DOUBLE_TAP` | The complication is double tapped. |
 
 The complication provider provides followings:
 
@@ -243,7 +243,7 @@ In this case, watchface must add the specific privileges to get the complication
 		<privilege>http://tizen.org/privilege/alarm.get</privilege>
 		<privilege>http://tizen.org/privilege/alarm.set</privilege>
 	</privileges>
-</complication> 
+</complication>
 ```
 
 ## Related Information
